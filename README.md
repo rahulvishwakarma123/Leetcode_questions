@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Tree
 |  |
 | ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Union-Find
 |  |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
