@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0001-two-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
+| [1035-uncrossed-lines](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1035-uncrossed-lines) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1035-uncrossed-lines](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
