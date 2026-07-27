@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1035-uncrossed-lines](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1035-uncrossed-lines) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 ## Dynamic Programming
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
