@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0001-two-sum) |
+| [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0087-scramble-string) |
+| [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
