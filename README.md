@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
+| [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1035-uncrossed-lines](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
+| [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
