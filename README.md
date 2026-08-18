@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
+| [0643-maximum-average-subarray-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1035-uncrossed-lines](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
