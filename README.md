@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
