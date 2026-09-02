@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Timsort
