@@ -1,4 +1,5 @@
 class Solution {
+    // read write algorithm/ also called array compression pattern
     public int removeDuplicates(int[] nums) {
         int write = 0;
         int read = 0;
