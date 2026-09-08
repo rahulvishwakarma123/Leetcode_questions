@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0087-scramble-string) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0312-burst-balloons) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0087-scramble-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0283-move-zeroes) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
