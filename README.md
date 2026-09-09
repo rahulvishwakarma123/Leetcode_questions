@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
