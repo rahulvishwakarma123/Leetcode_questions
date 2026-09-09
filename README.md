@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
