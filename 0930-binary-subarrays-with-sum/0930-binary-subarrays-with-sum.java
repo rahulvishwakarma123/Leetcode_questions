@@ -1,4 +1,5 @@
 class Solution {
+    // at most k approach of sliding window
     public int numSubarraysWithSum(int[] nums, int goal) {
         if(goal == 0) return atMost(nums, goal);
         return atMost(nums, goal) - atMost(nums, goal - 1);
