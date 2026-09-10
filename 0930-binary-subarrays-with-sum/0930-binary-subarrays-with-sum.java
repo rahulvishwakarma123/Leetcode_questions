@@ -1,19 +1,21 @@
 class Solution {
-    // at most k approach of sliding window
     public int numSubarraysWithSum(int[] nums, int goal) {
-        if(goal == 0) return atMost(nums, goal);
-        return atMost(nums, goal) - atMost(nums, goal - 1);
-    }
-    public int atMost(int[] nums, int goal){
-        int n = nums.length, i = 0, res = 0, sum = 0;
-        for(int j = 0; j < n; j++){
-            sum += nums[j];
-            while(i < n && sum > goal){
-                sum -= nums[i];
-                i++;
+        int n = nums.length;
+        int sum = 0;
+        int res = 0;
+        HashMap<Integer, Integer> hm = new HashMap<>();
+
+        hm.put(0, 1);
+        for(int i = 0; i < n; i++){
+            sum += nums[i];
+
+            if(hm.containsKey(sum - goal)){
+                res += hm.get(sum - goal);
             }
-            res += j - i + 1;
+
+            hm.put(sum, hm.getOrDefault(sum, 0) + 1);
         }
+
         return res;
     }
 }
