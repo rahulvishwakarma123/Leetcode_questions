@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Triangulation
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
