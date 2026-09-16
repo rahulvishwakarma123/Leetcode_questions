@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1314-matrix-block-sum) |
 ## Minimax
 |  |
