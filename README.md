@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2381-shifting-letters-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2381-shifting-letters-ii) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -332,4 +333,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1310-xor-queries-of-a-subarray) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
