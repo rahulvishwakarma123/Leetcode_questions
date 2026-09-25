@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1590-make-sum-divisible-by-p](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1590-make-sum-divisible-by-p) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1504-count-submatrices-with-all-ones) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
