@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1109-corporate-flight-bookings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1310-xor-queries-of-a-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
