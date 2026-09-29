@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0087-scramble-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
