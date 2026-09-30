@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
