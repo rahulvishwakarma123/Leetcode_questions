@@ -6,8 +6,9 @@ class Solution {
         int right = x;
         while(left <= right){
             int mid = left + ((right - left) / 2);
-            if(mid == x / mid) return mid;
-            else if(mid < x/ mid) left = mid + 1;
+            long square = ((long)mid * (long)mid);
+            if(square == x) return mid;
+            else if(square < x) left = mid + 1;
             else right = mid - 1;
         }
 
