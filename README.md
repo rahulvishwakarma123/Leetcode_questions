@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0074-search-a-2d-matrix) |
