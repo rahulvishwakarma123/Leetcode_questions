@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1109-corporate-flight-bookings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
+| [1095-find-in-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -402,8 +404,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
