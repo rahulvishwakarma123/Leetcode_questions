@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
