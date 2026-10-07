@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2187-minimum-time-to-complete-trips](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2381-shifting-letters-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2381-shifting-letters-ii) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1095-find-in-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2187-minimum-time-to-complete-trips](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sliding Window
 |  |
 | ------- |
