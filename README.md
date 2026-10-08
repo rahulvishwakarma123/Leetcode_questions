@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
