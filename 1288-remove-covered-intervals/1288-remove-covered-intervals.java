@@ -24,9 +24,6 @@ class Solution {
             else
                 return Integer.compare(b[1], a[1]);
         });
-        for(int k = 0; k < n; k++){
-            System.out.print("[" + intervals[k][0] + "][" + intervals[k][1] + "],");
-        }
         int i = 0;
         int j = 1;
         int ans = 0;
