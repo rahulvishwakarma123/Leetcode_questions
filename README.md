@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0283-move-zeroes) |
