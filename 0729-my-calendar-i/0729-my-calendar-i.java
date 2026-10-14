@@ -5,35 +5,49 @@ class MyCalendar {
     }
     
     public boolean book(int st, int end) {
-        List<int[]> list = new ArrayList<>();
-        boolean overlap = false;
-        for(int i = 0; i < cal.size(); i++){
-            int[] curr = cal.get(i);
-            int s = curr[0];
-            int e = curr[1];
-            // overlap -> return true
-            // lies before any interval and not merged yet
-                // merge it and overlap = true
-            // else new date lies on next interval
-                // then add curr to new list
-            if(e > st && end > s){
-                return false;
-            }
-            else if(!overlap && s >= end){
-                list.add(new int[]{st, end});
-                list.add(curr);
-                overlap = true;
-            }
-            else {
-                list.add(curr);
-            }
+        int idx = findInsertingIdx(st, end);
+        if(idx == -1) return false;
+        if(idx == cal.size()) {
+            cal.add(new int[]{st, end});
+            return true;
         }
-        if(!overlap){
-            list.add(new int[]{st, end});
+        else{
+            insertInterval(idx, st, end);
+            return true;
         }
-        cal = list;
-        return true;
+        
     }
+
+    // find inserting iindex or return -1 if overlap;
+    public int findInsertingIdx(int st, int end){
+        for(int i = 0; i < cal.size(); i++){
+            int s = cal.get(i)[0];
+            int e = cal.get(i)[1];
+
+            // overlap
+            if(e > st && end > s){
+                return -1;
+            }
+            else if(s >= end){
+                return i;
+            }
+        }
+        return cal.size();
+    }
+
+    // insert interval to the calander;
+    public void insertInterval(int idx, int st, int end){
+        int[] intervalToSet = new int[]{st, end};
+        int i = idx;
+        while(i < cal.size()){
+            int[] curr = cal.get(i);    
+            cal.set(i, intervalToSet);
+            intervalToSet = curr;
+            i++;
+        }
+        cal.add(intervalToSet);
+    }
+
 }
 
 /**
