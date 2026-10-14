@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0729-my-calendar-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0729-my-calendar-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0729-my-calendar-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0729-my-calendar-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Two Pointers
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0729-my-calendar-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0729-my-calendar-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -453,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
