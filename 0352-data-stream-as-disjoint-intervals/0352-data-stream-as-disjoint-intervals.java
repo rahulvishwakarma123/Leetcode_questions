@@ -1,32 +1,41 @@
 class SummaryRanges {
-    public List<Integer> list;
+    TreeSet<Integer> list;
     public SummaryRanges() {
-        list = new ArrayList<>();
+        list = new TreeSet<>();
     }
     
     public void addNum(int value) {
         list.add(value);
-        Collections.sort(list);
     }
+
+    // null   [1,2,3,6,7]
+    //                   v
+    //               i
+    //                 j
     
     public int[][] getIntervals() {
-        int i = 0; 
-        List<int[]> res = new ArrayList<>();
-        // [1, 2, 2, 3, 3, 6, 7]
-        //  
-        //              j
-        // curr = [1, 3], [6, 7];
-        while(i < list.size()){
-            int j = i;
-            while(j + 1 < list.size() && (list.get(j) == list.get(j + 1) - 1 || list.get(j) == list.get(j + 1))){
-                j++;
-            }
-            int[] curr = new int[]{list.get(i), list.get(j)};
-            res.add(curr);
-            i = j+1;
+        if(list.size() == 0) {
+            return new int[][]{};
         }
+        Integer left = null, right = null;
+        List<int[]> res = new ArrayList<>();
+        for(Integer val : list){
+            if(left == null && right == null){
+                left = val;
+                right = val;
+            }
+            else if(val - 1 == right){
+                right = val;
+            }else{
+                res.add(new int[]{left, right});
+                left = val;
+                right = val;
+            }
+        }
+        res.add(new int[]{left, right});
         int[][] arr = new int[res.size()][2];
-        for(i = 0; i < res.size(); i++){
+
+        for(int i = 0; i < res.size(); i++){
             arr[i] = res.get(i);
         }
         return arr;
