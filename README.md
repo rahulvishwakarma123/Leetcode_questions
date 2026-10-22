@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
