@@ -1,20 +1,18 @@
 class Solution {
-    // mistake : not taking greedy approach, I had to take the intervals which ended first.
-    // ans sorting the intervals on the basis of starting time
+    // greedy approach of remove interval patterns
     public int findMinArrowShots(int[][] points) {
-        Arrays.sort(points, (a, b) ->{
+        Arrays.sort(points, (a, b) -> {
             return Integer.compare(a[1], b[1]);
         });
-        int arrow = 0;
-        int i = 0;
-        int j = 0;
-        while(i < points.length){
-            j = i+1;
-            while(j < points.length && (points[i][1] >= points[j][0] && points[j][1] >= points[i][0])){
-                j++;
+        int arrow = 1;
+        int end = points[0][1];
+        for(int[] curr : points){
+            int st = curr[0];
+            // jo bhi interval pichala wala interval end hone se pahale start ho rahe hai wo ek hi arrow me burst ho jayenge
+            if(st > end){
+                arrow++;
+                end = curr[1];
             }
-            arrow++;
-            i = j;
         }
         return arrow;
     }
