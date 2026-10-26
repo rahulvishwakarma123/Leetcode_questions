@@ -1,41 +1,28 @@
 class Solution {
-
-    // differece array approach 
     public boolean carPooling(int[][] trips, int capacity) {
-        int n = trips.length;
-
-        // find the largest destIndex
-        int largDestIndex = 0;
-        for (int i = 0; i < n; i++) {
-            largDestIndex = Math.max(largDestIndex, trips[i][2]);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for(int[] trip: trips){
+            min = Math.min(trip[1], min);
+            max = Math.max(trip[2], max);
         }
+        int[] arr = new int[max-min+1];
 
-        int[] diff = new int[largDestIndex + 1];
-
-        for (int i = 0; i < n; i++) {
-            int passenger = trips[i][0];
-            int src = trips[i][1];
-            int dest = trips[i][2];
-
-            // adding to start
-            diff[src] += passenger;
-
-            // removing from end;
-            diff[dest] -= passenger;
+        for(int[] trip: trips){
+            int st = trip[1];
+            int end = trip[2];
+            arr[st - min] += trip[0];
+            arr[end - min] -= trip[0];
         }
-
-        // calculating the prefix array with diff
-        int currPassengers = 0;
-
-        for (int x : diff) {
-            currPassengers += x;
-
-            if (currPassengers > capacity)
-                return false;
+        int ans = arr[0];
+        for(int i = 1; i < arr.length; i++){
+            arr[i] += arr[i-1];
+            System.out.print(arr[i] + ",");
+            ans = Math.max(ans, arr[i]);
         }
-
-        return true;
+        if(ans <= capacity){
+            return true;
+        }
+        return false;
     }
-
-    // TC = O(max(diff.length, n))
 }
