@@ -1,60 +1,68 @@
 class Solution {
+     // 0 1 2 3 4 5 6 7
+    // [1,2,4,5,6,8,9,10]
+    //            m
+    //              l              
+    //            h
+    public int upperBound(int[] arr, int target){
+        int l = 0;
+        int h = arr.length;
+        while(l < h){
+            int mid = l + (h - l)/2;
+            if(arr[mid] <= target){
+                l = mid + 1;
+            }
+            else { 
+                h = mid;
+            }
+        }
+        return l;
+    }
+    public int lowerBound(int[] arr, int target){
+        int l = 0;
+        int h = arr.length;
+        while(l < h){
+            int mid = l + (h - l)/2;
+            if(arr[mid] < target){
+                l = mid + 1;
+            }
+            else { 
+                h = mid;
+            }
+        }
+        return l;
+    }
     public int[] fullBloomFlowers(int[][] flowers, int[] people) {
-        // approach 
-            // make a saparate array of starting and endiing and sort them
-            // sort the people array by storing their order preserve because we have to return ans in that particular order
-            // travers on the people array and apply a concept like sweep line
-            // starting[i] <= people[k]
-                // active++
-            // ending[j] < people[k]
-                // active--;
+        // binary search approach
+            // make start[] and end[] array
+            // sort them
+            // find upper_bound in start and lower bound in end for each day
+            // ans[i] = upper_bound - lower_bound
+        
+        int n = flowers.length;
+        int m = people.length;
+        int[] start = new int[n];
+        int[] end = new int[n];
 
-        int n = flowers.length; 
-        int m = people.length; //[3,3,2]
-
-        int[] startings = new int[n];
-        int[] endings = new int[n];
-
-        int a = 0;
-        for(int[] flower: flowers){
-            startings[a] = flower[0];
-            endings[a] = flower[1];
-            a++;
+        for(int i = 0; i < n; i++){
+            start[i] = flowers[i][0];
+            end[i] = flowers[i][1];
         }
 
-        Integer[] order = new Integer[m]; //[0,1,2]
-        for(int i = 0; i < m; i++){
-            order[i] = i;
-        }
-
-        Arrays.sort(startings);
-        Arrays.sort(endings);
-
-        // sort the order array which store the index of people's arriving day.
-        Arrays.sort(order, (x, y)->{
-            return Integer.compare(people[x], people[y]);
-        });
+        Arrays.sort(start);
+        Arrays.sort(end);
 
         int[] ans = new int[m];
-        int i = 0;
-        int j = 0;
-        int active = 0;
 
-        for(int k = 0; k < m; k++){
-            int index = order[k];
-            int day = people[index];
+        for(int i = 0; i < m; i++){
+            int day = people[i];
 
-            while(i < n && startings[i] <= day){
-                active++;
-                i++;
-            }
-            while(j < n && endings[j] < day){
-                active--;
-                j++;
-            }
-            ans[index] = active;
+            int bloomed = upperBound(start, day);
+            int died = lowerBound(end, day);
+
+            ans[i] = bloomed - died;
+
         }
-
         return ans;
     }
 }
