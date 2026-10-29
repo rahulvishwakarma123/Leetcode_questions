@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0367-valid-perfect-square) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Brainteaser
