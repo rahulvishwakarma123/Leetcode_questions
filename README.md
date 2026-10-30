@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1094-car-pooling) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Brainteaser
