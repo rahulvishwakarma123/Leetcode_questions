@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0525-contiguous-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
