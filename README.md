@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2421-number-of-good-paths](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2421-number-of-good-paths) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Triangulation
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1314-matrix-block-sum) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1504-count-submatrices-with-all-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Minimax
 |  |
 | ------- |
