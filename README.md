@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1854-maximum-population-year](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1854-maximum-population-year) |
+| [1882-process-tasks-using-servers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1882-process-tasks-using-servers) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1882-process-tasks-using-servers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
