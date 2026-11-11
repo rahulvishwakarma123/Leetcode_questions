@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2747-count-zero-request-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
