@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Triangulation
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0881-boats-to-save-people) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
