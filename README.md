@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1504-count-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1504-count-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0887-super-egg-drop](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0887-super-egg-drop) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1854-maximum-population-year](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
