@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Rolling Hash
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Triangulation
@@ -543,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0732-my-calendar-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
