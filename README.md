@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0784-letter-case-permutation](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/rahulvishwakarma123/Leetcode_questions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Brainteaser
